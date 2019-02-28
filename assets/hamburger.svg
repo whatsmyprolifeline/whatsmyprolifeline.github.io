@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg display="block" version="1.1" viewBox="0 0 1024.9 685.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<rect x="-27.8" y="-110.1" width="100%" height="100%" fill="none"/>
+<defs>
+<clipPath id="c">
+<path d="m25.2 514.5v-121.5h1032.4v121.5z"/>
+</clipPath>
+<clipPath id="b">
+<path d="m22.9 795.2v-121.4h1032.4v121.4z"/>
+</clipPath>
+<clipPath id="a">
+<path d="m25.2 229.2v-121.5h1032.4v121.5z"/>
+</clipPath>
+<style type="text/css"><![CDATA[
+.g0_3{
+fill: #FFFFFF;
+}
+.g1_3{
+fill: #7BCAFF;
+}
+.g2_3{
+fill: #3C413F;
+}
+]]></style>
+</defs>
+<g class="currentLayer" transform="translate(-27.8,-110.1)">
+<title>Layer 1</title>
+<g clip-path="url(#c)" fill="#3c413f">
+<path class="g2_3" d="m90.9 395.5c-33.6 0-60.8 27.2-60.8 60.7s27.2 60.7 60.8 60.7h79.6v-121.4z"/>
+<path class="g2_3" d="m991.9 395.5h-79.6v121.4h79.6c33.6 0 60.8-27.2 60.8-60.7s-27.2-60.7-60.8-60.7z"/>
+<path class="g2_3" d="m168.1 395.5h748.3v121.4h-748.3z"/>
+</g>
+<g clip-path="url(#b)" fill="#3c413f">
+<path class="g2_3" d="m88.6 676.2c-33.6 0-60.8 27.2-60.8 60.7s27.2 60.7 60.8 60.7h79.6v-121.4z"/>
+<path class="g2_3" d="m989.6 676.2h-79.6v121.4h79.6c33.6 0 60.8-27.2 60.8-60.7s-27.2-60.7-60.8-60.7z"/>
+<path class="g2_3" d="m165.8 676.2h748.3v121.4h-748.3z"/>
+</g>
+<g clip-path="url(#a)" fill="#3c413f">
+<path class="g2_3" d="m90.9 110.1c-33.6 0-60.8 27.2-60.8 60.8 0 33.5 27.2 60.7 60.8 60.7h79.6v-121.5z"/>
+<path class="g2_3" d="m991.9 110.1h-79.6v121.5h79.6c33.6 0 60.8-27.2 60.8-60.7 0-33.6-27.2-60.8-60.8-60.8z"/>
+<path class="g2_3" d="m168.1 110.1h748.3v121.5h-748.3z"/>
+</g>
+</g>
+</svg>
