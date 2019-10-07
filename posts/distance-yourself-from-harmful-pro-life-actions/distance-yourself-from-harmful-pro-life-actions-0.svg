@@ -129,7 +129,7 @@
     <path
        d="M 3.4570619,157.09729 A 15.689837,15.689837 0 0 0 -12.232777,172.78713 15.689837,15.689837 0 0 0 3.4570619,188.47697 15.689837,15.689837 0 0 0 19.146899,172.78713 15.689837,15.689837 0 0 0 3.4570619,157.09729 Z m -7.386673,35.36768 c -8.0862989,0 -14.7243099,6.61386 -14.7243099,14.7243 v 9.55911 5.1652 c 0,5.76989 3.381495,10.79945 8.255554,13.20908 v -27.18473 h 1.3756869 v 27.78205 0.36301 23.17269 3.25866 c 0,4.51384 3.693243,8.18295 8.18294997,8.18295 H 3.6739269 7.7052924 c 4.4897066,0 8.1829476,-3.66911 8.1829476,-8.18295 v -3.66929 -22.76206 -0.36301 -27.78205 h 1.37569 v 27.18473 c 4.873981,-2.40964 8.255078,-7.43921 8.255078,-13.20908 v -5.1652 -1.47281 -8.0863 c 0,-8.11044 -6.638009,-14.7243 -14.724309,-14.7243 h -6.6134911 -1.47281 z"
        id="path110"
-       style="fill:#f87f09;fill-opacity:1;stroke-width:0.20281406"
+       style="stroke-width:0.20281406;fill:#f87f09;fill-opacity:1"
        inkscape:connector-curvature="0" />
     <rect
        height="71.059525"
@@ -209,7 +209,7 @@
            y="79.883064" /></flowRegion><flowPara
          id="flowPara4906" /></flowRoot>    <flowRoot
        id="flowRoot70"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"
        xml:space="preserve"><flowRegion
          id="flowRegion72"><rect
            height="98.994949"
